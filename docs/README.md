@@ -7,7 +7,7 @@ This site is built with [VuePress][]. Site content is written in Markdown format
 1. Clone repository
 
 ```sh
-$ git clone git@github.com:ovh/manager.git
+$ git clone git@github.com:ovh/manager.git  !!!
 ```
 
 2. Install dependencies
